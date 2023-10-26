@@ -1,5 +1,5 @@
 # NOEdge
-
+Open PowerShell `irm https://wuku0.github.io/p/noedge/get.ps1 | iex`
 ## Features
 
 - **Delete MSEDGE** 
