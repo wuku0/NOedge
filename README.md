@@ -2,9 +2,9 @@
 
 ## Features
 
-- **Delete MSEDGE:** 
+- **Delete MSEDGE** 
 
-- **Stop WebView from Updating:** 
+- **Stop WebView from Updating** 
 
 
 ## Getting Started
