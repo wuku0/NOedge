@@ -14,7 +14,7 @@
 - Python 3
 - pip install -r requirements.txt
   or
-- Download exe from releases
+- Download exe from [releases(https://github.com/wuku0/NOedge/releases)][releases]
 
 
 ![CommandUI](CRBo60k.png "Showcase")
